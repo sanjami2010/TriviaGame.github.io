@@ -1,0 +1,10 @@
+h1{
+    color: tomato;
+    font-family:"Comic Sans MS", cursive,sans-serif;
+}
+.container{
+    color: slategrey;
+    text-align: center;
+    padding-top: 20px;
+    height: 100%;
+}
